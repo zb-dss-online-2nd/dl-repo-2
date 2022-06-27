@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+2020-02-123.반려동물구분_sample.zip filter=lfs diff=lfs merge=lfs -text
